@@ -1,16 +1,16 @@
 [
   {
-    "id": "1111122",
-    "username": "dpmods",
-    "password": "dpmods",
-    "expiresAt": "2025-12-31",
-    "allowOffline": true
-  },
-  {
     "id": "de9b8cc60aeddf18",
     "username": "adm",
     "password": "kuringaboy",
     "expiresAt": "3025-12-31",
+    "allowOffline": true
+  },
+{
+    "id": "1111122",
+    "username": "dpmods",
+    "password": "dpmods",
+    "expiresAt": "2025-12-31",
     "allowOffline": true
   },
   {
