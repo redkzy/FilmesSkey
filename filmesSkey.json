@@ -3,42 +3,42 @@
     "id": "de9b8cc60aeddf18",
     "username": "adm",
     "password": "kuringaboy",
-    "expiresAt": "3025-12-31",
+    "expiresAt": "2025-06-01",
     "allowOffline": true
   },
 {
     "id": "670913a0682a685e",
     "username": "thiagoF",
     "password": "1234",
-    "expiresAt": "2026-12-31",
+    "expiresAt": "2025-06-01",
     "allowOffline": true
   },
   {
     "id": "aa1f96fc92831ca3",
     "username": "carente",
     "password": "1234",
-    "expiresAt": "2026-11-30",
+    "expiresAt": "2025-06-01",
     "allowOffline": true
   },
 {
     "id": "4033928fb0a30948",
     "username": "bolofa",
     "password": "1234",
-    "expiresAt": "2026-11-30",
+    "expiresAt": "2025-06-01",
     "allowOffline": true
   },
 {
     "id": "be2f78ca05e493e3",
     "username": "ad",
     "password": "1234",
-    "expiresAt": "2026-11-30",
+    "expiresAt": "2025-06-01",
     "allowOffline": true
   },
 {
     "id": "1e58cb99dbf542f9",
     "username": "bb",
     "password": "1234",
-    "expiresAt": "2026-11-30",
+    "expiresAt": "2025-06-01",
     "allowOffline": true
   }
 ]
